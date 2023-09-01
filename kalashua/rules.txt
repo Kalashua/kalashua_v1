@@ -1,3 +1,5 @@
 name brand = kalashua
 
 commit to github kalashua
+
+email project was creted with name kalshua.adm@gmail.com
